@@ -5,7 +5,7 @@
 // ele, depois de cadastrar as suas informações, possa usar os métodos disponíveis.
 
 
-
+export function q6POO():void{}
 class Conta{
     private _numeroConta: number
     

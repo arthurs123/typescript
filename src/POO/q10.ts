@@ -17,7 +17,7 @@
 // o Média abaixo de 5.0  &quot;Triste / Transtornado&quot;
 
 
-
+export function q10POO():void{}
 class Bichinho{
     nome:string
     fome:number

@@ -6,7 +6,7 @@
 //  Calcular Área,
 //  Calcular Perímetro.
 
-
+export function q3POO():void{}
 class Retangulo{
     comprimento:number
     largura:number

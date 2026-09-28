@@ -62,3 +62,54 @@ document.getElementById("btnQ1.rep")?.addEventListener("click", questao1rep)
 document.getElementById("btnQ2.rep")?.addEventListener("click", questao2rep)
 document.getElementById("btnQ4.rep")?.addEventListener("click", questao4rep)
 document.getElementById("btnQ5.rep")?.addEventListener("click", questao5rep)
+
+//POO//
+
+import { q1POO } from "./POO/q1.js";
+
+import { q3POO } from "./POO/q3.js";
+
+import { q4POO } from "./POO/q4.js";
+
+import { q6POO } from "./POO/q6.js";
+
+import { q7POO } from "./POO/q7.js";
+
+import { q10POO } from "./POO/q10.js";
+
+import { q11POO } from "./POO/q11.js";
+
+import { q13POO } from "./POO/q13.js";
+
+import { q14POO } from "./POO/q14.js";
+
+import { q15POO } from "./POO/q15.js";
+
+import { q17POO } from "./POO/q17.js";
+
+import { q20POO } from "./POO/q20.js";
+
+import { q21POO } from "./POO/q21.js";
+
+import { q22POO } from "./POO/q22.js";
+
+import { q23POO } from "./POO/q23.js";
+
+import { q25POO } from "./POO/q25.js";
+
+document.getElementById("btnQ1.POO")?.addEventListener("click", q1POO)
+document.getElementById("btnQ3.POO")?.addEventListener("click", q3POO)
+document.getElementById("btnQ4.POO")?.addEventListener("click", q4POO)
+document.getElementById("btnQ6.POO")?.addEventListener("click", q6POO)
+document.getElementById("btnQ7.POO")?.addEventListener("click", q7POO)
+document.getElementById("btnQ10.POO")?.addEventListener("click", q10POO)
+document.getElementById("btnQ11.POO")?.addEventListener("click", q11POO)
+document.getElementById("btnQ13.POO")?.addEventListener("click", q13POO)
+document.getElementById("btnQ14.POO")?.addEventListener("click", q14POO)
+document.getElementById("btnQ15.POO")?.addEventListener("click", q15POO)
+document.getElementById("btnQ17.POO")?.addEventListener("click", q17POO)
+document.getElementById("btnQ20.POO")?.addEventListener("click", q20POO)
+document.getElementById("btnQ21.POO")?.addEventListener("click", q21POO)
+document.getElementById("btnQ22.POO")?.addEventListener("click", q22POO)
+document.getElementById("btnQ23.POO")?.addEventListener("click", q23POO)
+document.getElementById("btnQ25.POO")?.addEventListener("click", q25POO)

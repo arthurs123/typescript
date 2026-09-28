@@ -1,15 +1,9 @@
 
-
-
-
-
-
-
-
 // 1. Classe Bola: Crie uma classe que modele uma bola:
 //  Atributos: Cor, circunferência, material
 //  Métodos: trocaCor e mostraCor
 
+export function q1POO():void{
 class Bola{
     cor:string
     circuferencia:number
@@ -35,3 +29,4 @@ console.log(`Cor atual: ${bola.mostraCor()}`)
 bola.trocaCor("Azul")
 
 console.log(`Nova cor: ${bola.mostraCor()}`)
+}

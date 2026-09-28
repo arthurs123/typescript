@@ -2,6 +2,7 @@
 // local. Depois, deve criar um objeto com as medidas e calcular a quantidade de pisos e de rodapés
 // necessárias para o local.
 
+export function q4POO():void{}
 class Retangulo{
     comprimento:number
     largura:number

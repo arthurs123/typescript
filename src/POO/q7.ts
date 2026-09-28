@@ -6,7 +6,7 @@
 // cargo e salário. Crie um método que receba um percentual de aumento e atualize o salário do
 // funcionário, exibindo o seu nome e novo valor.
 
-
+export function q7POO():void{}
 class Cadastro{
 
     nome:string
