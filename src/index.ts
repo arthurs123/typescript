@@ -73,6 +73,8 @@ import { q3POO } from "./POO/q3.js";
 
 import { q4POO } from "./POO/q4.js";
 
+import { q5POO } from "./POO/q5.js";
+
 import { q6POO } from "./POO/q6.js";
 
 import { q7POO } from "./POO/q7.js";
@@ -91,7 +93,13 @@ import { q14POO } from "./POO/q14.js";
 
 import { q15POO } from "./POO/q15.js";
 
+import { q16POO } from "./POO/q16.js";
+
 import { q17POO } from "./POO/q17.js";
+
+import { q18POO } from "./POO/q18.js";
+
+import { q19POO } from "./POO/q19.js";
 
 import { q20POO } from "./POO/q20.js";
 
@@ -143,6 +151,7 @@ document.getElementById("btnQ1.POO")?.addEventListener("click", q1POO)
 document.getElementById("btnQ2.POO")?.addEventListener("click", q2POO)
 document.getElementById("btnQ3.POO")?.addEventListener("click", q3POO)
 document.getElementById("btnQ4.POO")?.addEventListener("click", q4POO)
+document.getElementById("btnQ5.POO")?.addEventListener("click", q5POO)
 document.getElementById("btnQ6.POO")?.addEventListener("click", q6POO)
 document.getElementById("btnQ7.POO")?.addEventListener("click", q7POO)
 document.getElementById("btnQ8.POO")?.addEventListener("click", q8POO)
@@ -152,7 +161,10 @@ document.getElementById("btnQ11.POO")?.addEventListener("click", q11POO)
 document.getElementById("btnQ13.POO")?.addEventListener("click", q13POO)
 document.getElementById("btnQ14.POO")?.addEventListener("click", q14POO)
 document.getElementById("btnQ15.POO")?.addEventListener("click", q15POO)
+document.getElementById("btnQ16.POO")?.addEventListener("click", q16POO)
 document.getElementById("btnQ17.POO")?.addEventListener("click", q17POO)
+document.getElementById("btnQ18.POO")?.addEventListener("click", q18POO)
+document.getElementById("btnQ19.POO")?.addEventListener("click", q19POO)
 document.getElementById("btnQ20.POO")?.addEventListener("click", q20POO)
 document.getElementById("btnQ21.POO")?.addEventListener("click", q21POO)
 document.getElementById("btnQ22.POO")?.addEventListener("click", q22POO)
